@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 31 Dec 2017 10:09:00 at http://look-this.co/? n=soumitra-mandal +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://look-this.co/? n=soumitra-mandal -O1 "C:\My Web Sites\Wish" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:09:00	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link n=soumitra-mandal/robots.txt (from primary/primary)
+10:09:01	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link n=soumitra-mandal/ (from primary/primary)
+10:09:07	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link n=soumitra-mandal/ (from primary/primary)
+10:09:07	Error: 	"Not Found" (404) at link look-this.co/fonts/Kruti-Dev-010.ttf.woff (from look-this.co/style.css)
+10:09:07	Error: 	"Not Found" (404) at link look-this.co/fonts/Kruti-Dev-010.ttf.svg (from look-this.co/style.css)
+10:09:07	Error: 	"Not Found" (404) at link look-this.co/fonts/Kruti-Dev-010.ttf.eot (from look-this.co/style.css)
+10:09:07	Error: 	"Not Found" (404) at link look-this.co/fonts/Kruti-Dev-010.eot? (from look-this.co/style.css)
+10:09:07	Error: 	"Not Found" (404) at link jaldi-dekho.com/Snow_falling1.gif (from look-this.co/style.css)
+10:09:07	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link n=soumitra-mandal/ (from primary/primary)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 seconds : 27 links scanned, 17 files written (519898 bytes overall), 3 files updated [112124 bytes received at 16017 bytes/sec], 137029 bytes transferred using HTTP compression in 8 files, ratio 24%, 2.5 requests per connection
+(7 errors, 2 warnings, 0 messages)
