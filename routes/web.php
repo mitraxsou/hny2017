@@ -23,4 +23,4 @@ Route::get('/share', function () {
     return view('welcome', ['name' => 'soumitra']);
 });
 
-Route::get('share/{id}', 'ShareController@createAShareId')->name ('sharewithid');
+Route::get('share/{name}', 'ShareController@createAShareId')->name ('sharewithid');
