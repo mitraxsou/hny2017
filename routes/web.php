@@ -17,3 +17,10 @@ Route::get('/', function () {
 });
 
 Route::post('share/', 'ShareController@createAShare');
+
+Route::get('/share', function () {
+	
+    return view('welcome', ['name' => 'soumitra']);
+});
+
+Route::get('share/{id}', 'ShareController@createAShareId')->name ('sharewithid');

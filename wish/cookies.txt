@@ -1,6 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-.histats.com	TRUE	/	FALSE	1999999999	CountUid	49b618f5-f3dg-4ae9-bc9c-3f80ab80c149
-.jaldi-dekho.com	TRUE	/	FALSE	1999999999	__cfduid	d67dc1b013be5ba89aa8ee358f1ac79871514695146
-.look-this.co	TRUE	/	FALSE	1999999999	__cfduid	d498b393c40c5553e3200592c9464b1211514695147
-

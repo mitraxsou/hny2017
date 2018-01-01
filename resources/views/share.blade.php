@@ -1,8 +1,32 @@
 
+
 <html>
-<!-- Mirrored from look-this.co/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 31 Dec 2017 04:39:07 GMT -->
+<!-- Mirrored from look-this.co/? by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 31 Dec 2017 04:39:00 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-111774715-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-111774715-1');
+</script>
+
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5a48853f0db42924"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-111774715-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-111774715-1');
+</script>
 
 <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1"/>
 <title> wishing you happy New Year.</title>
@@ -411,39 +435,39 @@ h3 {
 .swing
 {
         -webkit-animation: swing 5s infinite;  /* Chrome, Safari, Opera */
-		animation: swing 5s infinite;
-		-webkit-animation-timing-function: cubic-bezier(0,0,0.25,1);
-		animation-timing-function: cubic-bezier(0,0,0.25,1);
+        animation: swing 5s infinite;
+        -webkit-animation-timing-function: cubic-bezier(0,0,0.25,1);
+        animation-timing-function: cubic-bezier(0,0,0.25,1);
         -webkit-animation-iteration-count: infinite;
         animation-iteration-count: infinite;
 }
 
 .swing1
 {
-	-webkit-animation: swing1 3s infinite;  /* Chrome, Safari, Opera */
-		animation: swing1 3s infinite;
-		-webkit-animation-timing-function: cubic-bezier(0,0,0.25,1);
-		animation-timing-function: cubic-bezier(0,0,0.25,1);
+    -webkit-animation: swing1 3s infinite;  /* Chrome, Safari, Opera */
+        animation: swing1 3s infinite;
+        -webkit-animation-timing-function: cubic-bezier(0,0,0.25,1);
+        animation-timing-function: cubic-bezier(0,0,0.25,1);
         -webkit-animation-iteration-count: infinite;
         animation-iteration-count: infinite;
 }
 
 .swing2
 {
-	-webkit-animation: swing1 6s infinite;  /* Chrome, Safari, Opera */
-		animation: swing1 6s infinite;
-		-webkit-animation-timing-function: cubic-bezier(0,0,0.25,1);
-		animation-timing-function: cubic-bezier(0,0,0.25,1);
+    -webkit-animation: swing1 6s infinite;  /* Chrome, Safari, Opera */
+        animation: swing1 6s infinite;
+        -webkit-animation-timing-function: cubic-bezier(0,0,0.25,1);
+        animation-timing-function: cubic-bezier(0,0,0.25,1);
         -webkit-animation-iteration-count: infinite;
         animation-iteration-count: infinite;
 }
 
 .swing3
 {
-	-webkit-animation: swing1 4s infinite;  /* Chrome, Safari, Opera */
-		animation: swing1 4s infinite;
-		-webkit-animation-timing-function: cubic-bezier(0,0,0.25,1);
-		animation-timing-function: cubic-bezier(0,0,0.25,1);
+    -webkit-animation: swing1 4s infinite;  /* Chrome, Safari, Opera */
+        animation: swing1 4s infinite;
+        -webkit-animation-timing-function: cubic-bezier(0,0,0.25,1);
+        animation-timing-function: cubic-bezier(0,0,0.25,1);
         -webkit-animation-iteration-count: infinite;
         animation-iteration-count: infinite;
 }
@@ -506,62 +530,62 @@ h3 {
 }
 
 .name {
-	color: #fff;
-    	margin: 6px;
-    	padding: 25px 20px;
-    	font-size: 48px;
-    	font-family: sans-serif;
+    color: #fff;
+        margin: 6px;
+        padding: 25px 20px;
+        font-size: 48px;
+        font-family: sans-serif;
 }
 
 .enter-name input[type=name] {
-	background-color: #FDFD06;
-	color: black;
-   	border-radius: 10px;
-    	box-sizing: border-box;
-    	border: none;
-    	padding: 5px;
-    	position: fixed;
-    	left: 10px;
-    	bottom: 0px;
-    	height: 50px;
-    	width: 70%;
-    	text-align: center;
-    	font-size: 22px;
-    	display: inline-block;
+    background-color: #FDFD06;
+    color: black;
+    border-radius: 10px;
+        box-sizing: border-box;
+        border: none;
+        padding: 5px;
+        position: fixed;
+        left: 10px;
+        bottom: 0px;
+        height: 50px;
+        width: 70%;
+        text-align: center;
+        font-size: 22px;
+        display: inline-block;
 }
 
 .enter-name .btn {
-	border-radius: 10px;
-    	font-size: 21px;
-    	padding: 4px;
-    	position: fixed;
-    	right: 2px;
-    	bottom: 3px;
-    	height: 50px;
-    	width: 23%;
-    	display: inline-block;
-    	color: black;
-    	background-color: #FDFD06;
-    	border: none;
-    	letter-spacing: .5px;
-    	transition: .2s ease-out;
-    	cursor: pointer;
-    	line-height: 36px;
-    	outline: 0;
-    	text-transform: uppercase;
-    	vertical-align: middle;
-    	text-decoration: none;
-    	animation-duration: 4s !important;
+    border-radius: 10px;
+        font-size: 21px;
+        padding: 4px;
+        position: fixed;
+        right: 2px;
+        bottom: 3px;
+        height: 50px;
+        width: 23%;
+        display: inline-block;
+        color: black;
+        background-color: #FDFD06;
+        border: none;
+        letter-spacing: .5px;
+        transition: .2s ease-out;
+        cursor: pointer;
+        line-height: 36px;
+        outline: 0;
+        text-transform: uppercase;
+        vertical-align: middle;
+        text-decoration: none;
+        animation-duration: 4s !important;
 }
 
 .enter-name input[type=name]::-webkit-input-placeholder { 
-	color: black;
-  	font-size: 18px;	
+    color: black;
+    font-size: 18px;    
 }
 
 .enter-name input[type=name]::-moz-placeholder { 
-	color: #eee;
-  	font-size: 18px;
+    color: #eee;
+    font-size: 18px;
 }
 
 .enter-name input[type=name]:focus::-webkit-input-placeholder {
@@ -569,37 +593,37 @@ h3 {
 }
 
 .enter-name input[type=name]:focus::-moz-placeholder { 
-	color: #c0392b;
-  	font-size: 18px;
+    color: #c0392b;
+    font-size: 18px;
 }
 
 .img-holder img {
-    	width: 75%;
+        width: 75%;
 }
 
 .wapp-msg a {
-	background-color: #398a27;
-    	text-decoration: none;
-    	color: #fff;
-	border-radius: 10px;
-    	box-sizing: border-box;
-    	border: none;
-    	padding: 15px 0;
-	position: fixed;
-    	left: 10px;
-    	bottom: 0px;
-    	width: 97%;
-    	text-align: center;
-    	font-size: 22px;
-    	display: inline-block;
-    	text-shadow: 1px 1px 0 #444;
+    background-color: #398a27;
+        text-decoration: none;
+        color: #fff;
+    border-radius: 10px;
+        box-sizing: border-box;
+        border: none;
+        padding: 15px 0;
+    position: fixed;
+        left: 10px;
+        bottom: 0px;
+        width: 97%;
+        text-align: center;
+        font-size: 22px;
+        display: inline-block;
+        text-shadow: 1px 1px 0 #444;
 }
 
-	
+    
 @media only screen and (max-width: 500px) {
-    	.wrapper{
-		width:96vw;
-	}
+        .wrapper{
+        width:96vw;
+    }
 }
 .hny-txt {animation:glowtwo 3s ease-in-out infinite; margin:0;}
       @keyframes glowtwo{0%,100%{text-shadow:0 0 30px yellow;color: white;}25%{text-shadow:0 0 30px blue;color: black;}50%{text-shadow:0 0 30px blue;color: blue;}75%{text-shadow:0 0 30px blue;color: #ebff00;}}
@@ -652,33 +676,35 @@ h3 {
 
 </head>
 
-<body bgcolor="#EF8BD4">
+<body bgcolor="#FFC300 ">
+
+
 <marquee class="m1" behavior="scroll" direction="up" scrolldelay="5">  <br>
-<img src="5555.png" height="129px" width="35px"/><br><br>
-<img src="123.png" height="129px" width="35px"/><br><br>
-<img src="124.png" height="129px" width="35px"/><br><br>
-<img src="5555.png" height="129px" width="35px"/><br><br>
-<img src="123.png" height="129px" width="35px"/><br><br>
-<img src="5555.png" height="129px" width="35px"/><br><br>
-<img src="124.png" height="129px" width="35px"/><br><br>
-<img src="123.png" height="129px" width="35px"/><br><br>
-<img src="5555.png" height="129px" width="35px"/><br><br>
-<img src="124.png" height="129px" width="35px"/><br><br>
-<img src="123.png" height="129px" width="35px"/><br><br>
+<img src="../images/5555.png" height="129px" width="35px"/><br><br>
+<img src="../images/123.png" height="129px" width="35px"/><br><br>
+<img src="../images/124.png" height="129px" width="35px"/><br><br>
+<img src="../images/5555.png" height="129px" width="35px"/><br><br>
+<img src="../images/123.png" height="129px" width="35px"/><br><br>
+<img src="../images/5555.png" height="129px" width="35px"/><br><br>
+<img src="../images/124.png" height="129px" width="35px"/><br><br>
+<img src="../images/123.png" height="129px" width="35px"/><br><br>
+<img src="../images/5555.png" height="129px" width="35px"/><br><br>
+<img src="../images/124.png" height="129px" width="35px"/><br><br>
+<img src="../images/123.png" height="129px" width="35px"/><br><br>
 
 </marquee>
 <marquee class="m2" behavior="scroll" direction="down" scrolldelay="5"><br>
-<img src="124.png" height="129px" width="35px"/><br><br>
-<img src="5556.png" height="129px" width="35px"/><br><br>
-<img src="124.png" height="129px" width="35px"/><br><br>
-<img src="5556.png" height="129px" width="35px"/><br><br>
-<img src="123.png" height="129px" width="35px"/><br><br>
-<img src="5556.png" height="129px" width="35px"/><br><br>
-<img src="124.png" height="129px" width="35px"/><br><br>
-<img src="123.png" height="129px" width="35px"/><br><br>
-<img src="5556.png" height="129px" width="35px"/><br><br>
-<img src="124.png" height="129px" width="35px"/><br><br>
-<img src="123.png" height="129px" width="35px"/><br><br>
+<img src="../images/124.png" height="129px" width="35px"/><br><br>
+<img src="../images/5556.png" height="129px" width="35px"/><br><br>
+<img src="../images/124.png" height="129px" width="35px"/><br><br>
+<img src="../images/5556.png" height="129px" width="35px"/><br><br>
+<img src="../images/123.png" height="129px" width="35px"/><br><br>
+<img src="../images/5556.png" height="129px" width="35px"/><br><br>
+<img src="../images/124.png" height="129px" width="35px"/><br><br>
+<img src="../images/123.png" height="129px" width="35px"/><br><br>
+<img src="../images/5556.png" height="129px" width="35px"/><br><br>
+<img src="../images/124.png" height="129px" width="35px"/><br><br>
+<img src="../images/123.png" height="129px" width="35px"/><br><br>
 
 </marquee>
 <center>
@@ -701,24 +727,26 @@ h3 {
             <div class="main_body">
 <center>
 <figure>
-<h1 class="naming">[Your Name]</h1>
-<h1 class="naming">[Your Name]</h1>
-<h1 class="naming">[Your Name]</h1>
-<h1 class="naming">[Your Name]</h1>
-<h1 class="naming">[Your Name]</h1>
+<h1 class="naming">{{ $name }}</h1>
+<h1 class="naming">{{ $name }}</h1>
+<h1 class="naming">{{ $name }}</h1>
+<h1 class="naming">{{ $name }}</h1>
 </figure>
 </center>
 
 <div class="vi" style="text-align: center;">
-<img src="Snow_falling1.gif" class="swing1" alt="diwali" style="width: 100%; height:100px;">
 
+<img src="../images/Snow_falling1.gif" class="swing1" alt="hny" style="width: 100%; height:100px;">
+
+<center><a class="btn btn-primary" href="whatsapp://send?text= OPEN THIS BOX :) http://notun.ml/share/{{ $name}}" data-action="share/whatsapp/share">Share via Whatsapp</a></center>
 <h3><p class="hny-txt">Wishing You</p></h3>
 <h2><p class="hny-txt">Happy new year</p></h2> <p id="demo"></p> 
-<img class="center swing" src="do.png" width="60px" height="90px" alt="Happy New Year greating wishes">
-<img class="center swing1" src="jiro.png" width="60px" height="90px" alt="Happy New Year greating wishes">
-<img class="center swing2" src="ek.png" width="60px" height="90px" alt="Happy New Year greating wishes">
-<img class="center swing3" src="aat.png" width="60px" height="90px" alt="Happy New Year greating wishes">
-            
+<img class="center swing" src="../images/do.png" width="60px" height="90px" alt="Happy New Year greating wishes">
+<img class="center swing1" src="../images/jiro.png" width="60px" height="90px" alt="Happy New Year greating wishes">
+<img class="center swing2" src="../images/ek.png" width="60px" height="90px" alt="Happy New Year greating wishes">
+<img class="center swing3" src="../images/aat.png" width="60px" height="90px" alt="Happy New Year greating wishes">
+            <center><a class="btn btn-primary" href="whatsapp://send?text= PLEASE OPEN
+            THIS BOX:) http://notun.ml/share/{{ $name}}" data-action="share/whatsapp/share">Share via Whatsapp</a></center>
 <br>
 <br>
 
@@ -752,7 +780,7 @@ var x = setInterval(function() {
   // If the count down is finished, write some text 
   if (distance < 0) {
     clearInterval(x);
-    document.getElementById("demo").innerHTML = "EXPIRED";
+    document.getElementById("demo").innerHTML = "Bless You It's a Brand New Year ";
   }
 }, 1000);
 </script>        
@@ -765,52 +793,35 @@ Fragrant as roses and<br>
 filled with cheer and fun.<br>
 May there be happiness 
 <br>the whole year through<br>Wishing you a Happy New Year<br></p></b><br>
-<div class="button">[Your Name]</div></center><br>
+<div class="button">{{ $name }}</div></center><br>
 <center>
-<script async src="../pagead2.googlesyndication.com/pagead/js/f.txt"></script>
-<!-- My magic 300x250 -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:300px;height:250px"
-     data-ad-client="ca-pub-6498357786398319"
-     data-ad-slot="9129798768"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</center><br><br>
-</div>
-</div>
-</div>
-</div>
-</div>
-<form method="post" action="http://look-this.co/ready.php">
-	<div class="enter-name">
-		<input class="animated pulse infinite" type="name" required="" maxlength="50" name="n" placeholder="👉 Enter Your Name Here">
-		<button class="btn animated shake infinite" type="submit"><span>👉</span> Go</button>
-	</div>
-</form>       
+<a href="whatsapp://send?text= New style of celebrating new year :) http://notun.ml/share/{{ $name}}" data-action="share/whatsapp/share">Share via Whatsapp</a>
 
+
+
+
+</center><br><br>
+
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+</div>
+</div>
+</div>
+</div>
+</div>
+<form method="post" action="/share">
+    <input type="hidden" name="_token" value="{{ csrf_token() }}">
+
+
+
+    <div class="enter-name">
+        <input class="animated pulse infinite" type="name" required="" maxlength="50" name="name" placeholder="👉 Enter Your Name Here">
+        <button class="btn animated shake infinite" type="submit"><span>👉</span> Go</button>
+    </div>
+</form>       
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5a48853f0db42924"></script>
     </body>
 
-<!-- Mirrored from look-this.co/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 31 Dec 2017 04:39:07 GMT -->
+<!-- Mirrored from look-this.co/? by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 31 Dec 2017 04:39:00 GMT -->
 </html> 
-<!-- Histats.com  START  (aync)-->
-<script type="text/javascript">var _Hasync= _Hasync|| [];
-_Hasync.push(['Histats.start', '1,3974708,4,0,0,0,00010000']);
-_Hasync.push(['Histats.fasi', '1']);
-_Hasync.push(['Histats.track_hits', '']);
-(function() {
-var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
-hs.src = ('../s10.histats.com/js15_as.js');
-(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
-})();</script>
-<noscript><a href="index.html" target="_blank"><img  src="../sstatic1.histats.com/06fde.gif?3974708&amp;101" alt="free tracking" border="0"></a></noscript>
-<!-- Histats.com  END  -->
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-80915631-4"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'UA-80915631-4');
-</script>

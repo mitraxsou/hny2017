@@ -5,6 +5,29 @@
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-111774715-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-111774715-1');
+</script>
+
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5a48853f0db42924"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-111774715-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-111774715-1');
+</script>
+
 <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1"/>
 <title> wishing you happy New Year.</title>
   <meta name="google" value="notranslate">
@@ -653,33 +676,33 @@ h3 {
 
 </head>
 
-<body bgcolor="#EF8BD4">
+<body bgcolor="#FFC300 ">
 <marquee class="m1" behavior="scroll" direction="up" scrolldelay="5">  <br>
-<img src="images/5555.png" height="129px" width="35px"/><br><br>
-<img src="images/123.png" height="129px" width="35px"/><br><br>
-<img src="images/124.png" height="129px" width="35px"/><br><br>
-<img src="images/5555.png" height="129px" width="35px"/><br><br>
-<img src="images/123.png" height="129px" width="35px"/><br><br>
-<img src="images/5555.png" height="129px" width="35px"/><br><br>
-<img src="images/124.png" height="129px" width="35px"/><br><br>
-<img src="images/123.png" height="129px" width="35px"/><br><br>
-<img src="images/5555.png" height="129px" width="35px"/><br><br>
-<img src="images/124.png" height="129px" width="35px"/><br><br>
-<img src="images/123.png" height="129px" width="35px"/><br><br>
+<img src="../images/5555.png" height="129px" width="35px"/><br><br>
+<img src="../images/123.png" height="129px" width="35px"/><br><br>
+<img src="../images/124.png" height="129px" width="35px"/><br><br>
+<img src="../images/5555.png" height="129px" width="35px"/><br><br>
+<img src="../images/123.png" height="129px" width="35px"/><br><br>
+<img src="../images/5555.png" height="129px" width="35px"/><br><br>
+<img src="../images/124.png" height="129px" width="35px"/><br><br>
+<img src="../images/123.png" height="129px" width="35px"/><br><br>
+<img src="../images/5555.png" height="129px" width="35px"/><br><br>
+<img src="../images/124.png" height="129px" width="35px"/><br><br>
+<img src="../images/123.png" height="129px" width="35px"/><br><br>
 
 </marquee>
 <marquee class="m2" behavior="scroll" direction="down" scrolldelay="5"><br>
-<img src="images/124.png" height="129px" width="35px"/><br><br>
-<img src="images/5556.png" height="129px" width="35px"/><br><br>
-<img src="images/124.png" height="129px" width="35px"/><br><br>
-<img src="images/5556.png" height="129px" width="35px"/><br><br>
-<img src="images/123.png" height="129px" width="35px"/><br><br>
-<img src="images/5556.png" height="129px" width="35px"/><br><br>
-<img src="images/124.png" height="129px" width="35px"/><br><br>
-<img src="images/123.png" height="129px" width="35px"/><br><br>
-<img src="images/5556.png" height="129px" width="35px"/><br><br>
-<img src="images/124.png" height="129px" width="35px"/><br><br>
-<img src="images/123.png" height="129px" width="35px"/><br><br>
+<img src="../images/124.png" height="129px" width="35px"/><br><br>
+<img src="../images/5556.png" height="129px" width="35px"/><br><br>
+<img src="../images/124.png" height="129px" width="35px"/><br><br>
+<img src="../images/5556.png" height="129px" width="35px"/><br><br>
+<img src="../images/123.png" height="129px" width="35px"/><br><br>
+<img src="../images/5556.png" height="129px" width="35px"/><br><br>
+<img src="../images/124.png" height="129px" width="35px"/><br><br>
+<img src="../images/123.png" height="129px" width="35px"/><br><br>
+<img src="../images/5556.png" height="129px" width="35px"/><br><br>
+<img src="../images/124.png" height="129px" width="35px"/><br><br>
+<img src="../images/123.png" height="129px" width="35px"/><br><br>
 
 </marquee>
 <center>
@@ -710,14 +733,14 @@ h3 {
 </center>
 
 <div class="vi" style="text-align: center;">
-<img src="images/Snow_falling1.gif" class="swing1" alt="diwali" style="width: 100%; height:100px;">
+<img src="../images/Snow_falling1.gif" class="swing1" alt="diwali" style="width: 100%; height:100px;">
 
 <h3><p class="hny-txt">Wishing You</p></h3>
 <h2><p class="hny-txt">Happy new year</p></h2> <p id="demo"></p> 
-<img class="center swing" src="images/do.png" width="60px" height="90px" alt="Happy New Year greating wishes">
-<img class="center swing1" src="images/jiro.png" width="60px" height="90px" alt="Happy New Year greating wishes">
-<img class="center swing2" src="images/ek.png" width="60px" height="90px" alt="Happy New Year greating wishes">
-<img class="center swing3" src="images/aat.png" width="60px" height="90px" alt="Happy New Year greating wishes">
+<img class="center swing" src="../images/do.png" width="60px" height="90px" alt="Happy New Year greating wishes">
+<img class="center swing1" src="../images/jiro.png" width="60px" height="90px" alt="Happy New Year greating wishes">
+<img class="center swing2" src="../images/ek.png" width="60px" height="90px" alt="Happy New Year greating wishes">
+<img class="center swing3" src="../images/aat.png" width="60px" height="90px" alt="Happy New Year greating wishes">
             
 <br>
 <br>
@@ -752,7 +775,7 @@ var x = setInterval(function() {
   // If the count down is finished, write some text 
   if (distance < 0) {
     clearInterval(x);
-    document.getElementById("demo").innerHTML = "EXPIRED";
+    document.getElementById("demo").innerHTML = "😃😃 It's 2018 😃😃";
   }
 }, 1000);
 </script>        
@@ -765,18 +788,15 @@ Fragrant as roses and<br>
 filled with cheer and fun.<br>
 May there be happiness 
 <br>the whole year through<br>Wishing you a Happy New Year<br></p></b><br>
-<div class="button">[Your Name]</div></center><br>
+<div class="button">Soumitra made this 😀</div></center><br>
 <center>
-<script async src="../pagead2.googlesyndication.com/pagead/js/f.txt"></script>
-<!-- My magic 300x250 -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:300px;height:250px"
-     data-ad-client="ca-pub-6498357786398319"
-     data-ad-slot="9129798768"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+
+
+
+
 </center><br><br>
+
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
 </div>
 </div>
 </div>
@@ -792,29 +812,10 @@ May there be happiness
         <button class="btn animated shake infinite" type="submit"><span>👉</span> Go</button>
     </div>
 </form>       
-
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5a48853f0db42924"></script>
     </body>
 
 <!-- Mirrored from look-this.co/? by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 31 Dec 2017 04:39:00 GMT -->
 </html> 
-<!-- Histats.com  START  (aync)-->
-<script type="text/javascript">var _Hasync= _Hasync|| [];
-_Hasync.push(['Histats.start', '1,3974708,4,0,0,0,00010000']);
-_Hasync.push(['Histats.fasi', '1']);
-_Hasync.push(['Histats.track_hits', '']);
-(function() {
-var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
-hs.src = ('../s10.histats.com/js15_as.js');
-(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
-})();</script>
-<noscript><a href="index.html" target="_blank"><img  src="../sstatic1.histats.com/06fde.gif?3974708&amp;101" alt="free tracking" border="0"></a></noscript>
-<!-- Histats.com  END  -->
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-80915631-4"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'UA-80915631-4');
-</script>

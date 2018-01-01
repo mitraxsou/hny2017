@@ -9,9 +9,20 @@ class ShareController extends Controller
     //
     public function createAShare(Request $request){
 
+    	$name = 'soumitra';
     	$name = $request->name;
 
-    	return view('welcome', ['name' => $name]);
+    	return redirect()->route('sharewithid', ['id' => $name]);
+
+
+    }
+
+    public function createAShareId($id){
+
+    	$name = 'soumitra';
+    	$name = $id;
+
+    	return view('share', ['name' => $name]);
 
     }
 }
